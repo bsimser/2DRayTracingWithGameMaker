@@ -9,4 +9,6 @@ Features:
 * Flashlight beam grows darker the further away it is from the player
 * Shadows cast from solid objects fade in distance
 
-This code was written for entertainment and educational purposes so there may be excessive comments over explaining things. Get over it.
+This code was written for entertainment and educational purposes in about an hour so there may be excessive comments over explaining things and obvious mistakes. 
+
+Get over it.
